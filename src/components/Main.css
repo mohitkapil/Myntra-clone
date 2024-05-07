@@ -1,0 +1,43 @@
+.main {
+    padding-top: 10px;
+}
+
+.fashion-fest img {
+    width: 100%;
+    padding: 1% 1% 1% 1%;
+    box-sizing: border-box;
+}
+
+.offer img {
+    width: 100%;
+}
+
+.crazy-offer {
+    background-color: brown;
+    height: 150px;
+    text-align: center;
+    color: rgb(232, 170, 13);
+}
+
+.first {
+    font-size: xx-large;
+    padding-top: 40px;
+}
+
+.second {
+    font-size: x-large;
+}
+
+.festive-offer {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.download img {
+    width: 100%;
+}

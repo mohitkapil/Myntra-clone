@@ -1,0 +1,19 @@
+.card {
+    position: relative;
+    height: 20em;
+    width: 13em;
+}
+
+.card-image img {
+    
+    width: 100%;
+    height: 100%; /* Set the height of the image to 100% of its container */
+    object-fit: cover;  
+}
+
+.card-info {
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(#d0a566, #ffe482, #d0a566);
+    padding: 5px 0;
+}

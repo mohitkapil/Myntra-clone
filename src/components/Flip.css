@@ -1,0 +1,30 @@
+.flip {
+    position: relative;
+    width: 13rem;
+    height: 20rem;
+}
+
+.flip-image img {
+    width: 100%;
+}
+
+.flipinfo-box {
+    background-image: linear-gradient(#d0a566, #ffe482, #d0a566);
+    padding: 5px 3px;
+    box-sizing: border-box;
+}
+
+.flip-info {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wishlist, .addbag {
+    cursor: pointer;
+}
