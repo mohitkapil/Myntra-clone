@@ -28,3 +28,11 @@
 .wishlist, .addbag {
     cursor: pointer;
 }
+
+.wishlist:active {
+    color: white;
+}
+
+.addbag:active {
+    color: white;
+}
